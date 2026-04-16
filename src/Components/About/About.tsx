@@ -1,4 +1,4 @@
-import React from 'react'
+
 import './About.css';
 import theme_pattern from '../../assets/theme_pattern.svg';
 import about_image from '../../assets/profile_image_1.jpeg'
