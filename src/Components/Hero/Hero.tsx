@@ -1,6 +1,6 @@
 import "./Hero.css";
 import profile_image from "../../assets/profile_image.png";
-import resume from "../../assets/Amaljith_Resume_2024.pdf.pdf";
+import resume from "../../assets/AMALJITH-CV-Web.pdf";
 const Hero = () => {
   return (
     <div className="hero">
