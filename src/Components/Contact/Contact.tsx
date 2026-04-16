@@ -49,10 +49,7 @@ const Contact = () => {
       <div className="contact-section">
         <div className="contact-left">
           <h1>Lets talk</h1>
-          <p>
-            I'm Currently available to take new projects
-            ppppppppppppppppppppppppppp
-          </p>
+          <p>I'm Currently available to take new projects</p>
 
           <div className="contact-details">
             <div className="contact-detail">
